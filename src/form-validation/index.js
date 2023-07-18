@@ -192,7 +192,7 @@ class Home extends Component {
                     </div>
                 </div>
                 <Users />
-                {/* <Modal /> */}
+               
             </div>
         )
     }
